@@ -1,4 +1,6 @@
-1.	http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/8517.m3u8 #Name: Cinema 36 PPV FHD (ES)
+#EXTM3U 
+#EXINF:-1 , CINEMA 36 
+http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/8517.m3u8 
 2.	http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/16342.m3u8 #Name: CL: 13C Full HD
 3.	http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/16257.m3u8 #Name: CL: Canal 13 Full HD
 4.	http://ca.stablechannels.tv:8080/live/uqviuunk/Yv4Ino625z/16261.m3u8 #Name: CL: CHV Full HD
